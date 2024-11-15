@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TemaEcoDicas" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/corPrimaria</item>
+        <item name="colorPrimaryVariant">@color/corPrimariaEscura</item>
+        <item name="colorOnPrimary">@color/corTextoPrimario</item>
+        <item name="colorSecondary">@color/corSecundaria</item>
+        <item name="colorSecondaryVariant">@color/corSecundariaEscura</item>
+        <item name="colorOnSecondary">@color/corTextoSecundario</item>
+        <item name="android:windowBackground">@color/corFundo</item>
+        <item name="colorBackground">@color/corFundo</item>
+        <item name="android:textColorPrimary">@color/corTextoSecundario</item>
+        <item name="android:textColorSecondary">@color/corTextoPrimario</item>
+        <item name="android:buttonStyle">@style/BotaoEcoDicas</item>
+    </style>
+
+    <style name="BotaoEcoDicas" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/corTextoPrimario</item>
+        <item name="backgroundTint">@color/corPrimaria</item>
+    </style>
+</resources>

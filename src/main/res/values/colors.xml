@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corPrimaria">#2E7D32</color>
+    <color name="corPrimariaEscura">#005005</color>
+    <color name="corPrimariaClara">#60AD5E</color>
+    <color name="corSecundaria">#C0CA33</color>
+    <color name="corSecundariaEscura">#8C9900</color>
+    <color name="corSecundariaClara">#F5FD67</color>
+    <color name="corTextoPrimario">#FFFFFF</color>
+    <color name="corTextoSecundario">#000000</color>
+    <color name="corFundo">#F1F8E9</color>
+    <color name="corDestaque">#FFC107</color>
+</resources>
